@@ -1,6 +1,6 @@
 ### Hey, I'm Murad 👋🏽  
 
-I'm a 21-year-old Software and Cybersecurity based in Poland, and I'm passionate about crafting interesting project experiences. 
+I'm a 21-year-old Software and Cybersecurity engineer based in Poland, and I'm passionate about crafting interesting project experiences. 
 
 
 - 🌱 I’m currently learning **Frameworks , courses to learn more about codes**
