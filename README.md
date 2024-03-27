@@ -3,7 +3,7 @@
 I'm a 21-year-old Software and Cybersecurity engineer based in Poland, and I'm passionate about crafting interesting project experiences. 
 
 
-- 🌱 I’m currently learning **Frameworks , courses to learn more about codes**
+- 🌱 I’m currently learning **Frameworks , courses to learn more about coding 3D models **
 
 - 📫 How to reach me **murad.salmanov.02@gmail.com**
 
