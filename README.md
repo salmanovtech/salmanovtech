@@ -15,6 +15,3 @@ Final-year Cybersecurity student at Vizja University (Warsaw, expected July 2027
 
 #### Dev
 `Java (Spring Boot)` `SQL` `Bash / Linux CLI` `Git & GitHub Actions`
-
----
-📌 Pinned repos below show my current focus — security-relevant projects with real writeups, not coursework filler.
